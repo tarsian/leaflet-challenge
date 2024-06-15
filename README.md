@@ -27,24 +27,23 @@ This project utilizes Leaflet.js to create interactive maps that visualize earth
 2. Navigate to the directory:
   ```bash
   cd leaflet-challenge
-4.
-
-
+  ```
 ## Usage
 Open the index.html file in your browser to view the project. Use the layer controls to toggle between different datasets and base maps.
 
-Part 1: Earthquake Visualization
-Data Source: Earthquake data is fetched from the USGS GeoJSON Feed.
-Features:
-Earthquakes are represented as circles, with size indicating magnitude and color indicating depth.
-Click on any earthquake marker to view details about the earthquake.
-Part 2: Tectonic Plates and Additional Data
-Data Source: Tectonic plates data is fetched from Fraxen's tectonic plates GitHub repository.
-Features:
-Tectonic plates are visualized using lines on the map.
-Additional base maps are available for different viewing preferences.
-Separate overlays for earthquakes and tectonic plates that can be toggled on and off.
-Deployment
+### Part 1: Earthquake Visualization
+- Data Source: Earthquake data is fetched from the USGS GeoJSON Feed.
+- Features:
+   - Earthquakes are represented as circles, with size indicating magnitude and color indicating depth.
+   - Click on any earthquake marker to view details about the earthquake.
+### Part 2: Tectonic Plates and Additional Data
+- Data Source: Tectonic plates data is fetched from Fraxen's tectonic plates GitHub repository.
+- Features:
+   - Tectonic plates are visualized using lines on the map.
+   - Additional base maps are available for different viewing preferences.
+   - Separate overlays for earthquakes and tectonic plates that can be toggled on and off.
+
+### Deployment
 The project can be deployed on any static server or platforms like GitHub Pages.
-Contributing
+### Contributing
 Contributions to enhance this project are welcome. Please fork the repository and submit a pull request with your updates.
