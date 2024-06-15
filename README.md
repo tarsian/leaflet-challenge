@@ -27,6 +27,8 @@ This project utilizes Leaflet.js to create interactive maps that visualize earth
 2. Navigate to the directory:
   ```bash
   cd leaflet-challenge
+4.
+
 
 ## Usage
 Open the index.html file in your browser to view the project. Use the layer controls to toggle between different datasets and base maps.
